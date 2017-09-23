@@ -19,7 +19,7 @@ public class Move3 : MonoBehaviour {
 		float v = Input.GetAxis("Vertical");
 
         transform.Translate(0, v * moveSpeed * Time.deltaTime, 0);
-        transform.Rotate(0, 0, h * angularSpeed * Time.deltaTime);
+        transform.Rotate(0, 0, -h * angularSpeed * Time.deltaTime);
 
 
 

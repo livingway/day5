@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/step5.unity
+- path: Assets/Scenes/P38.unity
   isLoaded: 1
   isActive: 1

@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{E0A476E1-4DFB-4874-11EC-1459A461509B}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MissileMove.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Move3.cs">
     <Files>
-      <File FileName="Assets/Test.cs" Line="18" Column="9" />
-      <File FileName="Assets/Move.cs" Line="23" Column="9" />
-      <File FileName="Assets/Move3.cs" Line="25" Column="9" />
-      <File FileName="Assets/MissileMove.cs" Line="14" Column="30" />
-      <File FileName="Assets/Shoot.cs" Line="18" Column="70" />
+      <File FileName="Assets/Move.cs" Line="32" Column="9" />
+      <File FileName="Assets/Move3.cs" Line="25" Column="11" />
+      <File FileName="Assets/MissileMove.cs" Line="8" Column="5" />
+      <File FileName="Assets/Shoot.cs" Line="42" Column="4" />
+      <File FileName="Assets/CameraMove.cs" Line="8" Column="5" />
+      <File FileName="Assets/Scenes/PropellerRatate.cs" Line="16" Column="9" />
+      <File FileName="Assets/Scenes/PlayerMove.cs" Line="12" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
